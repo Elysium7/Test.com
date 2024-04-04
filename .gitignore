@@ -1,0 +1,2 @@
+#ovdje stavljamo da se ignorisu svi fajlovi koji imaju .txt ekstenziju
+*.txt
